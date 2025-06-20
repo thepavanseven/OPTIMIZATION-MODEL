@@ -93,4 +93,8 @@ By applying linear programming, businesses can make data-driven decisions that d
 Conclusion
 This project provides a hands-on demonstration of how mathematical optimization and Python can be used to solve real business problems in warehouse management. By structuring the problem, modeling it with PuLP, and interpreting the results, we show how modern analytics can drive smarter, more profitable operations. The notebook serves as both a practical tool and an educational resource for students and professionals in operations research, supply chain, and data science.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/20af4cba-0ad8-4eb6-85ed-bd9c3ecde469)
+
  
